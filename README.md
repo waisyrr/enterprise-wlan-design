@@ -14,6 +14,14 @@ The design incorporates modern enterprise networking concepts including WPA3 enc
 
 ---
 
+## 📄 Project Documentation
+
+A concise professional summary of this project is available below:
+
+📥 [Download Project Summary PDF](docs/project-summary.pdf)
+
+---
+
 ## 🎯 Objectives
 
 * Design a secure enterprise wireless infrastructure
